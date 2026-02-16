@@ -1,8 +1,8 @@
 {
   "name": "mock-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Mock HTTP server for testing webhooks and API integrations",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
